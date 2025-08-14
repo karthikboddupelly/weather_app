@@ -14,7 +14,14 @@ The app utilizes the OpenWeatherMap API to fetch weather data.
 - Allow users to search for weather in different cities.
 - Automatically fetch weather for the user's current location (requires location permissions).
 
-### Getting Started
+## How to Run the Project
 
-1.  **Clone the repository:**
+To run this Flutter project, follow these steps:
+
+1.  **Get dependencies:** Open your terminal in the project's root directory and run:
+
+2.  **Run the app:** To launch the application on a connected device or emulator, run:
+
+If you have multiple devices connected, the command will prompt you to choose one.
+
 
