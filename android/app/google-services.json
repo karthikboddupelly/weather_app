@@ -1,29 +1,3 @@
-{
-  "project_info": {
-    "project_number": "711092975245",
-    "project_id": "weather-appp-a9681",
-    "storage_bucket": "weather-appp-a9681.firebasestorage.app"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:711092975245:android:8055d5ac4d0ebfe66394c4",
-        "android_client_info": {
-          "package_name": "com.example.myapp"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCqOYzMV6gUd8_e2FSLxVTHwrh_eisX9-o"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    }
-  ],
-  "configuration_version": "1"
-}
+#Add your google-services-json file
+
+#You can download from Firebase studio
